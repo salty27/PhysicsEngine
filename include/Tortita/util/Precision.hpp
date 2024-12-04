@@ -16,6 +16,11 @@ namespace ttt
      * 
      */
     #define realSqrt sqrtf
+    /**
+     * @brief Defines the precision of the power operator
+     * 
+     */
+    #define realPow powf
 }
 
 #endif
